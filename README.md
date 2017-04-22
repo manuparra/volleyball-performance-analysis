@@ -1,4 +1,4 @@
-# VolleyBall Performance Analysis 
+# VolleyBall Performance Analysis and Visualization using R
 
 Created by
 
@@ -22,18 +22,34 @@ The aim of the present study was to measure the middle hitter’s availability f
 **Key Words**: *centroid, match analysis, first tempo, middle hitter, performance indicator*.
 
 
-## Setter Performance visualization
+## Installing the R package
+
+```
+# if you have not installed "devtools" package, install it.
+install.packages("devtools")
+
+library(devtools) 
+
+install_github("manuparra/volleyball-performance-analysis", subdir="Rpackage")
+
+```
+
+## Using Methods
+
+
+### Setter Performance visualization
 
 ![perf](imgs/set_k1.png)
 
 
-## Attack Performance visualization
+### Attack Performance visualization
 
 ![perf1](imgs/attack_k1.png)
 
 
-
-## Teams centroid, angles and distances
+### Teams centroid, angles and distances
 
 
 ![angles](imgs/angles.png)
+
+
