@@ -2,24 +2,25 @@
 
 Created by
 
-- Manuel Parra Royón (CCIA - University of Granada)
-- Elia Mercado Palomino (University of Granada)
-- Aurelio Ureña Espa (University of Granada)
-- José Manuel Benítez Sánchez (CCIA - University of Granada)
+- Parra Royón, Manuel J. Department of Computer Science and Artificial Intelligence, University of Granada, Spain.
+- Mercado-Palomino, Elia. Department of Physical Education and Sport, University of Granada, Spain.
+- Morante Rábago, Juan Carlos. Faculty of Sport, University of León, Spain
+- Benítez, José M. Department of Computer Science and Artificial Intelligence, University of Granada, Spain.
+- Ureña Espa, Aurelio.  Department of Physical Education and Sport, University of Granada, Spain.
+
+This work was supported by the Spanish Science and Innovation Ministry under Grants DEP2011-27503 and TIN2013-47210- P.
+
+This study was approved by the Ethics Committee for Human Research at the University of Granada.
 
 At:
 
 ![dicits_logo](imgs/dicitslogo.png)
 
-## Performance visualization
+**The associated analysis and data visualization are available on this web as supplemental online material.**
+
+## Setter Performance visualization
 
 ![perf](imgs/set_k1.png)
-
-
-## Teams centroid, angles and distances
-
-
-![angles](imgs/angles.png)
 
 
 ## Attack Performance visualization
@@ -27,3 +28,8 @@ At:
 ![perf1](imgs/attack_k1.png)
 
 
+
+## Teams centroid, angles and distances
+
+
+![angles](imgs/angles.png)
