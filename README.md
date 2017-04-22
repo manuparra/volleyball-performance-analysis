@@ -7,6 +7,9 @@ Created by
 - Aurelio Ureña Espa (University of Granada)
 - José Manuel Benítez Sánchez (CCIA - University of Granada)
 
+At:
+
+![dicits_logo](imgs/dicitslogo.png)
 
 ## Performance visualization
 
