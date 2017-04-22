@@ -16,7 +16,11 @@ At:
 
 ![dicits_logo](imgs/dicitslogo.png)
 
-**The associated analysis and data visualization are available on this web as supplemental online material.**
+
+The aim of the present study was to measure the middle hitter’s availability from the frequency distribution of the setter’s different positions, when the team maintained that availability.
+
+**Key Words**: *centroid, match analysis, first tempo, middle hitter, performance indicator*.
+
 
 ## Setter Performance visualization
 
